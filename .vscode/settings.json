@@ -1,0 +1,8 @@
+{
+    "html.suggest.html5": true,
+    "emmet.includeLanguages": {
+        "html": "htmlreact",
+        "javascript": "javascriptreact",
+        
+    }
+}
