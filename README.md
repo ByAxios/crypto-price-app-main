@@ -21,6 +21,7 @@ This crypto-price-app was build using ReactJS. We can find the latest cryptocurr
 ```
 
 In the project directory, you can run:
+### `npm install`
 
 ### `npm start`
 
